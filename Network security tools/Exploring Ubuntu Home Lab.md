@@ -1,8 +1,6 @@
-# Lab — Exploring Ubuntu Home Lab
+# Exploring Ubuntu Home Lab 
 
-This lab documents my process of exploring the basic network configuration and security posture of an Ubuntu VM. Each step includes the tool, what it does, why it matters, and the commands used. I also saved outputs in `artifacts/` and placed screenshots in `screenshots/`.
 
----
 
 ## 1. Identify Network Interfaces and IP Addresses
 **Tool**: `ip` / `ifconfig`  
