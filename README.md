@@ -7,4 +7,8 @@ This repository is where I document my cybersecurity home lab projects. I’m bu
 ## Labs
 
 ### Network Security Tools
-- [Exploring Ubuntu Home Lab](Network%20security%20tools/Exploring%20Ubuntu%20Home%20Lab.md)
+- [Exploring Ubuntu Home Lab](Network%20security%20tools/Homelab4/Exploring%20Ubuntu%20Home%20Lab.md)
+
+### Cyber Security Tools
+
+- [Linux Users and Permissions](Cybersec%20tools/Lab2/Linux%20Users%20and%20Permissions.md)
