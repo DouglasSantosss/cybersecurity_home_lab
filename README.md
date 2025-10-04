@@ -9,7 +9,7 @@ This repository is where I document my cybersecurity home lab projects. I’m bu
 ### Network Security Tools
 - [Exploring Ubuntu Home Lab](Network%20security%20tools/Homelab4/Exploring%20Ubuntu%20Home%20Lab.md)
 
-- [UFW Lab](Network%20security%20tools/Homelab5/UFW%20Lab.md)
+- [UFW Lab](Network%20security%20tools/Homelab5/UFW%20lab.md)
 
 ### Cyber Security Tools
 
