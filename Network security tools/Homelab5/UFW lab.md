@@ -4,7 +4,7 @@ In this lab I learned how to configure the Uncomplicated Firewall (UFW) on Ubunt
 
 ---
 
-## Part I — Enable UFW  
+## Part I Enable UFW  
 
 ### 1. Check UFW status  
 **Command**:  
@@ -103,7 +103,7 @@ Shows rules with numbers so they can be managed or deleted.
 ![rules](image-9.png)
 ---
 
-## Part II — UFW Logging  
+## Part II UFW Logging  
 
 ### 1. Enable logging  
 **Command**:  
