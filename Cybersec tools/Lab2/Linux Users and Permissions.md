@@ -1,4 +1,4 @@
-# HomeLab: Linux Users, Groups, and Permissions
+# HomeLab using Linux Users, Groups, and Permissions
 
 This lab shows how I used basic Linux commands to manage users, groups, and file permissions in my Ubuntu VM.
 
