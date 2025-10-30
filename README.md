@@ -11,7 +11,7 @@ This repository is where I document my cybersecurity home lab projects. I’m bu
 
 - [UFW Lab](Network%20security%20tools/Homelab5/UFW%20lab.md)
 
-- [Snort Lab] (Network%20security%20tools/Homelab6/Snort%20lab.md)
+- [Snort](Network%20security%20tools/Homelab6/snort.md)
 
 ### Cyber Security Tools
 
