@@ -11,6 +11,8 @@ This repository is where I document my cybersecurity home lab projects. I’m bu
 
 - [UFW Lab](Network%20security%20tools/Homelab5/UFW%20lab.md)
 
+- [Snort Lab] (Network%20security%20tools/Homelab6/Snort%20lab.md)
+
 ### Cyber Security Tools
 
 - [Linux Users and Permissions](Cybersec%20tools/Lab2/Linux%20Users%20and%20Permissions.md)
