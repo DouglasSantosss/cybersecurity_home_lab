@@ -2,7 +2,7 @@
 
 This lab is based on the SEED Labs **Environment Variable and Set-UID Program Lab**. 
 It demonstrates how environment variables affect program behavior, how they transfer between processes,  
-and how Set-UID programs handle environment-related security risks.
+and how Set-UID programs handle environment related security risks.
 
 ---
 
