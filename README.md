@@ -17,4 +17,4 @@ This repository is where I document my cybersecurity home lab projects. I’m bu
 
 - [Linux Users and Permissions](Cybersec%20tools/Lab2/Linux%20Users%20and%20Permissions.md)
 
-- [Environment Variable and Set-UID ](Cybersec%20tools/Lab3/Environment%20Variable%20and%20Set-UID.md)
+- [Environment Variable and Set-UID](Cybersec%20tools/Lab3/Environment%20Variable%20and%20Set-UID.md)
