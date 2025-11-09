@@ -41,7 +41,7 @@ They are built into Bash, not standalone executables.
 ![DEMO_VAR](image-1.png)
 ---
 
-## Task 2 — Passing Environment Variables (Parent → Child)
+## Task 2 Passing Environment Variables (Parent → Child)
 
 **File: `myprintenv.c`**
 
@@ -88,7 +88,7 @@ The `diff -s` output shows nearly identical contents except for process specific
 ![diff](image-4.png)
 ---
 
-## Task 3 — Environment Variables and `execve()`
+## Task 3 Environment Variables and `execve()`
 
 **File: `myenv.c`**
 
@@ -119,7 +119,7 @@ When `environ` is passed, the new process inherits the caller’s environment.
 
 ---
 
-## Task 4 — Environment Variables and `system()`
+## Task 4  Environment Variables and `system()`
 
 **File: `system_env.c`**
 
@@ -140,7 +140,7 @@ Unlike `execve()`, it always uses a shell wrapper.
 
 ---
 
-## Task 5 — Environment Variables and Set-UID Programs
+## Task 5  Environment Variables and Set-UID Programs
 
 **File: `foo.c`**
 
@@ -177,7 +177,7 @@ Normal environment variables are inherited, but unsafe ones (`LD_*`) are strippe
 
 ---
 
-## Task 6 — PATH Hijacking with SUID and `system()`
+## Task 6  PATH Hijacking with SUID and `system()`
 
 **File: `suid_ls.c`**
 
@@ -210,7 +210,7 @@ Modern shells mitigate this by dropping privileges.
 
 ---
 
-## Task 7 — `LD_PRELOAD` and SUID
+## Task 7  `LD_PRELOAD` and SUID
 
 **File: `mylib.c`**
 
@@ -250,7 +250,7 @@ SUID executables ignore `LD_PRELOAD` for safety, preventing injected libraries.
 
 ---
 
-## Task 8 — `system()` vs `execve()` in SUID
+## Task 8 `system()` vs `execve()` in SUID
 
 **File: `catall.c`**
 
@@ -278,7 +278,7 @@ The 'catall_system' Set-UID binary demonstrated a shell-injection risk: passing 
 
 ---
 
-## Task 9 — Capability Leaking
+## Task 9 Capability Leaking
 
 **File: `cap_leak.c`**
 
